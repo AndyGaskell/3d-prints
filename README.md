@@ -72,4 +72,19 @@ https://map2model.com/
 `git commit -a -m "all fixed"`
 
 
+## SVG Workflow (not sensible)
+
+Design in Inkscape
+
+Export as SVG
+
+Import into bambu studio
+
+Export as generic 3mf
+
+Import into UltiMaker Cura
+
+Export as GCode inc settings
+
+Load into the printer's web interface
 
