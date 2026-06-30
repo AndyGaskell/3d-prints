@@ -88,3 +88,7 @@ Export as GCode inc settings
 
 Load into the printer's web interface
 
+## Notes
+
+Lens cap, 46mm & 62mm
+
